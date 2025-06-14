@@ -18,13 +18,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This is my code solution to qt code challenge on Frontend Mentor.
 ### Screenshot
 
-![](./screenshot.png)
+![]( ../screenshot.png )
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/osazuwamatthewogbebor/qrcode-frm)
+- Live Site URL: (https://osazuwamatthewogbebor.github.io/qrcode-frm/)
 
 ## My process
 I used HTML and CSS without any framework.
@@ -49,7 +49,7 @@ I still need to work more on responsive design using the mobile first approach.
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - @osazuwamatthewogbebor)
+- Twitter - @osasmatthewtech
 
 
