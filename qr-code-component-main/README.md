@@ -15,10 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
-This is my code solution to qt code challenge on Frontend Mentor.
+This is my code solution to qr code challenge on Frontend Mentor.
 ### Screenshot
 
-![]( ../screenshot.png )
+![](../screenshot.png)
 
 
 ### Links
